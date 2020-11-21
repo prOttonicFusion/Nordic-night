@@ -1301,7 +1301,7 @@ StScrollBar {
   padding: 6px 0;
   border: 1px solid #1f232b;
   border-left: 0px;
-  border-radius: 0px 5px 5px 0px; }
+  border-radius: 0px 0px 0px 0px; }
   #dash:rtl {
     border-radius: 9px 0 0 9px; }
   #dash .placeholder {
