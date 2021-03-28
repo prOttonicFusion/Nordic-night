@@ -15,3 +15,6 @@ gsettings set org.gnome.desktop.wm.preferences theme "Nordic"
 ```
 or Change via distribution specific tool.
 
+#### Development
+The primary changes compared to the base repo by [EliverLara](https://github.com/EliverLara/Nordic) are as follows:
+- The background color is changed to hues of `rgba(76, 86, 106, 0.8)` (from `rgba(143, 188, 187, 0.7)`)

@@ -6376,18 +6376,18 @@ window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-
   window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .path-bar-button:checked {
     color: #fff;
     outline-color: rgba(255, 255, 255, 0.3);
-    background-color: rgba(143, 188, 187, 0.7);
+    background-color: rgba(76, 86, 106, 0.8);
     text-shadow: none; }
 
 window.thunar toolbar#location-toolbar > toolitem > widget > widget.linked.path-bar .toggle.path-bar-button:hover {
   color: #fff;
   outline-color: rgba(255, 255, 255, 0.3);
-  background-color: rgba(143, 188, 187, 0.7);
+  background-color: rgba(76, 86, 106, 0.8);
   text-shadow: none; }
 
 /* thunar sidepane */
 window.thunar paned > scrolledwindow treeview.view:hover, window.thunar paned > scrolledwindow treeview.view:selected {
-  background: rgba(143, 188, 187, 0.7);
+  background: rgba(76, 86, 106, 0.8);
   color: #2e3440;
   border-radius: 0;
   box-shadow: none; }
